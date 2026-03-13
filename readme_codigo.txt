@@ -22,3 +22,5 @@ Neste momento, esta aplicação implementa as seguintes operações:
 - GitHub Desktop
 - plataforma GitHub
 
+## Site Oficial
+Faça download desta aplicação do site oficial: [www.calculos.com] (https://www.www.calculos.com)
